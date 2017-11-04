@@ -1,1 +1,8 @@
 .DS_Store
+stackoverflow.zip
+wikipedia.zip
+stackoverflow/.idea/**
+stackoverflow/target/**
+stackoverflow/project/target/**
+stackoverflow/project/project/**
+
